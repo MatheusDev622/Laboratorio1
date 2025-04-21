@@ -13,4 +13,5 @@ int main(){
     puts("Digite o expoente");
     scanf("%d",&expoente);
     printf("%d elevado a %d = %lf",base,expoente,potencia(base,expoente));
+    return 0;
 }
